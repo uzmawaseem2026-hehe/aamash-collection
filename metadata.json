@@ -1,0 +1,8 @@
+{
+  "name": "Remix AAMASH COLLECTION",
+  "description": "Online store in Pakistan for refined watches, full-grain leather wallets, and gift sets with PKR pricing, 100% Cash on Delivery (COD) nationwide, and direct WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
